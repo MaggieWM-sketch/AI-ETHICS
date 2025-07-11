@@ -57,6 +57,3 @@ This project explores core principles and challenges in developing fair, transpa
 - Ethical reflection (Part 4)  
 - Healthcare policy proposal (Bonus Task)
 
----
-
-Let me know if you'd like help generating any part of the assignment content or polishing specific sections! We can tackle this piece by piece or build out the whole thing together.
